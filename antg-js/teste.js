@@ -1,3 +1,12 @@
+import { soma as Somatoria } from "./funcoes";
+import { sub }  from "./funcoes";
+import SomaFunction from './antg-js/soma';
+
+console.log(Somatoria(1,2));
+console.log(sub(1,2));
+console.log(SomaFunction(1,2))
+
+
 // // // // // // class List {
 // // // // // //     constructor() {
 // // // // // //         this.data = [];
